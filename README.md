@@ -1,7 +1,7 @@
 ![alt text](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/Banner%20git.png)
-### Olá 👋
+## Olá 👋
 
-Sou Henrique de Castro 
+Sou o Henrique de Castro 
 - <i>Atualmente:</i> Engenheiro de software T.I no Itaú Unibanco.
 
 ## Sobre mim:
