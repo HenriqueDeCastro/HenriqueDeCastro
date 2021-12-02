@@ -13,8 +13,7 @@ Graduado em ciência da computação pela Universidade Paulista. Atualmente é f
 - Write to me: [castrohenrique13899@gmail.com](mailto:castrohenrique13899@gmail.com) -->
 
 ## Atualmente estou aprendendo
-* Testes unitários em Angular com Jasmine 
-* Princípios e boas práticas do SOLID 
+* Testes unitários em Angular com Jasmine
 
 ## Linguagens e Skills
 * <h3>Front-end:</h3>
