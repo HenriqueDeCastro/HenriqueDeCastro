@@ -2,11 +2,11 @@
 ## Olá 👋
 
 Sou o Henrique de Castro 
-- <i>Atualmente:</i> Engenheiro de software T.I no Itaú Unibanco.
+- <i>Atualmente:</i> Engenheiro de software no Picpay.
 
 ## Sobre mim:
 
-Graduado em ciência da computação pela Universidade Paulista. Atualmente é funcionário do banco Itaú Unibanco S.A com conhecimentos sólidos em programação orientada a objeto, banco de dados relacional e metodologia ágil (SCRUM).
+Graduado em ciência da computação pela Universidade Paulista. Atualmente é um engenheiro de software na Picpay com conhecimentos sólidos em programação orientada a objeto, banco de dados relacional e metodologia ágil (SCRUM).
  
 <!-- - Check out my Blog: [https://site.com](https://site.com)
 - Know more about me: [About ](https://site.com/pages/about)
