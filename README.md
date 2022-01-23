@@ -1,4 +1,4 @@
-![alt text](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/Banner%20git.png)
+![alt text](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/Git%20Banner.png)
 
 <div>
   <p align="center">
