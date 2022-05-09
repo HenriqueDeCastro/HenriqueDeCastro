@@ -1,5 +1,9 @@
 ![alt text](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/Git%20Banner.png)
 
+# Hey! I'm Henrique Castro
+__Graduated in computer science from University Paulista. He is currently a software engineer at Picpay with solid knowledge in object-oriented programming, relational databases and agile methodology (SCRUM).__
+<br>
+
 <div>
   <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquedecastro&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -21,6 +25,8 @@
 <img alt="H-CSHARP" src="https://img.shields.io/badge/Csharp-7D5B8C?style=for-the-badge&logo=csharp&logoColor=white">
 <img alt="H-MYSQL" src="https://img.shields.io/badge/mysql-002F5E?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="H-DOTNET" src="https://img.shields.io/badge/.NET%20CORE-9966CC?style=for-the-badge&logo=DOTNET&logoColor=white">
+<br>
+<img alt="H-DOTNET" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
  ![Snake animation](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/github-contribution-grid-snake.svg)
