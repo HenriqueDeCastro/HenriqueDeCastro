@@ -19,6 +19,7 @@ __Graduated in computer science from University Paulista. He is currently a soft
 <img alt="H-JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img alt="H-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="H-ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img alt="H-RXJS" src="https://img.shields.io/badge/RxJs-EA378E?style=for-the-badge&logo=reactivex&logoColor=white">
 <img alt="H-JASMINE" src="https://img.shields.io/badge/Jasmine-993999?style=for-the-badge&logo=Jasmine&logoColor=white">
 <img alt="H-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <br>
