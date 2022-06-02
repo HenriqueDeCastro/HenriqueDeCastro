@@ -27,7 +27,7 @@ __Graduated in computer science from University Paulista. He is currently a soft
 <img alt="H-MYSQL" src="https://img.shields.io/badge/mysql-002F5E?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="H-DOTNET" src="https://img.shields.io/badge/.NET%20CORE-9966CC?style=for-the-badge&logo=DOTNET&logoColor=white">
 <br>
-<img alt="H-DOTNET" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img alt="H-NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
  ![Snake animation](https://github.com/HenriqueDeCastro/HenriqueDeCastro/blob/main/github-contribution-grid-snake.svg)
