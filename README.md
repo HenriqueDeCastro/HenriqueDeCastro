@@ -38,3 +38,6 @@ Graduated in computer science from University Paulista. He is currently a softwa
 
 <a href="mailto:castrohenrique13899@gmail.com">![castrohenrique13899@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/henrique-castro-782749178/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![middle (1)](https://github.com/user-attachments/assets/f0678335-2b49-4977-b314-a2c3831d1330)
+
+
